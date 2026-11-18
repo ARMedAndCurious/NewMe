@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="632" viewBox="0 0 1280 632">
+<title>Original schematic of the observed desktop layout</title><desc>A roughly 452 pixel storefront centered in a 1280 by 632 viewport. Structural diagram only, not a NEWME screenshot.</desc>
+<defs><pattern id="hatch" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M0 16L16 0" stroke="#e1e3df"/></pattern></defs>
+<rect width="1280" height="632" fill="#f8f9f6"/><rect x="24" y="24" width="363" height="584" rx="8" fill="url(#hatch)"/><rect x="893" y="24" width="363" height="584" rx="8" fill="url(#hatch)"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202820">
+<text x="48" y="65" font-size="18" font-weight="700" letter-spacing="2">OBSERVED STRUCTURE</text><text x="48" y="95" font-size="17">Original schematic · not a screenshot</text>
+<rect x="414" y="24" width="452" height="584" rx="8" fill="#fff" stroke="#343e35" stroke-width="2"/>
+<rect x="430" y="40" width="420" height="44" rx="3" fill="#f6c8dc"/><text x="640" y="68" text-anchor="middle" font-size="18">Promotional strips</text>
+<rect x="430" y="96" width="420" height="62" rx="3" fill="#edf0ea"/><text x="640" y="133" text-anchor="middle" font-size="18">Compact header</text>
+<rect x="430" y="170" width="420" height="350" rx="3" fill="#dcebdd" stroke="#759278"/><text x="640" y="325" text-anchor="middle" font-size="28" font-weight="700">Campaign area</text><text x="640" y="360" text-anchor="middle" font-size="18">Portrait-led storefront</text>
+<path d="M475 402H805M475 396V408M805 396V408" stroke="#536957" stroke-width="2"/>
+<rect x="430" y="532" width="420" height="60" rx="3" fill="#edf0ea"/><text x="640" y="569" text-anchor="middle" font-size="18">Bottom navigation</text>
+<text x="48" y="302" font-size="24" font-weight="700">Surrounding canvas</text><text x="48" y="335" font-size="18">Content stays in a narrow column</text><path d="M50 365H385M50 358V372M385 358V372" stroke="#637367" stroke-width="2"/>
+<text x="925" y="302" font-size="24" font-weight="700">Centered storefront</text><text x="925" y="335" font-size="18">Approx. 452px in this recording</text><path d="M925 365H1250M925 358V372M1250 358V372" stroke="#637367" stroke-width="2"/>
+<text x="48" y="567" font-size="17">Layout relationships only;</text><text x="48" y="592" font-size="17">brand photography is not reproduced.</text><text x="925" y="592" font-size="17">Reference viewport: 1280 × 632</text>
+</g></svg>

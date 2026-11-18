@@ -1,0 +1,31 @@
+# Dependencies, build output and test artifacts
+node_modules/
+dist/
+.vite/
+coverage/
+playwright-report/
+test-results/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Internal planning, recordings and reference materials
+/references/
+/newme-redesigned/references/
+/screenshots/
+/docs/
+/public/images/case-study/newme-original-desktop.png
+*.mp4
+*.mov
+*.webm
+
+# Local editor and tooling files
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
